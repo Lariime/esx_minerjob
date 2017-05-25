@@ -8,6 +8,11 @@ Message to the creator of es_extended at the bottom of the page :D
 
 --------[FR]---------
 
+Vous avez besoin de ce module pour que esx_minerjob fonctionne:
+
+Https://github.com/indilo53/fivem-es_extended
+
+
 Mettre le dossier "esx_minerjob" dans resources -> [esx]
 
 Ajouter "- esx_minerjob" a votre citmp-server.yml
@@ -24,6 +29,11 @@ PS: Notre serveur recherche des developpeurs sur ESX, le travaille pour le serve
 
 
 --------[ENG]--------
+
+You NEED this module for esx_slaughtererjob to work :
+
+https://github.com/indilo53/fivem-es_extended
+
 
 Put the folder "esx_minerjob" in resources -> [esx]
 
