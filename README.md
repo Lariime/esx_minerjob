@@ -4,7 +4,7 @@ Because the creator of "es_extended" is French and me too, the instructions in E
 Message to the creator of es_extended at the bottom of the page :D
 
 
-[FR]
+--------[FR]---------
 
 Mettre le dossier "esx_minerjob" dans resources -> [esx]
 
@@ -17,7 +17,7 @@ Si vous utilisez "esx_joblisting" ajouté le metier a votre DB dans la Table job
 PS: Notre serveur recherche des developpeurs sur ESX, le travaille pour le serveur serras partagé a tous !
 
 
-[ENG]
+--------[ENG]--------
 
 Put the folder "esx_minerjob" in resources -> [esx]
 
