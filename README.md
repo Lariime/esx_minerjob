@@ -16,6 +16,8 @@ Executé "esx_minerjob.sql" dans gta5_gamemode_essential
 
 Si vous utilisez "esx_joblisting" ajouté le metier a votre DB dans la Table job_listing (jobname=miner ; grade=0 ; max=-1)
 
+NOTE: La tenue de travail seras ajouter plus tard
+
 PS: Notre serveur recherche des developpeurs sur ESX, le travaille pour le serveur serras partagé a tous !
 
 
@@ -30,6 +32,8 @@ Add "- esx_minerjob" to your citmp-server.yml
 Executed esx_minerjob.sql in gta5_gamemode_essential
 
 If you use "esx_joblisting" added the job to your DB in the job_listing table (jobname = miner; grade = 0; max = -1)
+
+NOTE: Workwear will be added later
 
 
 
