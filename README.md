@@ -7,8 +7,11 @@ Message to the creator of es_extended at the bottom of the page :D
 [FR]
 
 Mettre le dossier "esx_minerjob" dans resources -> [esx]
+
 Ajouter "- esx_minerjob" a votre citmp-server.yml
+
 Executé esx_minerjob.sql dans gta5_gamemode_essential
+
 Si vous utilisez "esx_joblisting" ajouté le metier a votre DB dans la Table job_listing (jobname=miner ; grade=0 ; max=-1)
 
 PS: Notre serveur recherche des developpeurs sur ESX, le travaille pour le serveur serras partagé a tous !
