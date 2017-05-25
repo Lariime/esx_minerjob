@@ -20,8 +20,11 @@ PS: Notre serveur recherche des developpeurs sur ESX, le travaille pour le serve
 [ENG]
 
 Put the folder "esx_minerjob" in resources -> [esx]
+
 Add "- esx_minerjob" to your citmp-server.yml
+
 Executed esx_minerjob.sql in gta5_gamemode_essential
+
 If you use "esx_joblisting" added the job to your DB in the job_listing table (jobname = miner; grade = 0; max = -1)
 
 
