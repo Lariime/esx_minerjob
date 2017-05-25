@@ -14,13 +14,13 @@ Https://github.com/indilo53/fivem-es_extended
 
 
 
-1)Mettre le dossier "esx_minerjob" dans resources -> [esx]
+1) Mettre le dossier "esx_minerjob" dans resources -> [esx]
 
-2)Ajouter "- esx_minerjob" a votre citmp-server.yml
+2) Ajouter "- esx_minerjob" a votre citmp-server.yml
 
-3)Executé "esx_minerjob.sql" dans gta5_gamemode_essential
+3) Executé "esx_minerjob.sql" dans gta5_gamemode_essential
 
-4)Si vous utilisez "esx_joblisting" ajouté le metier a votre DB dans la Table job_listing (jobname=miner ; grade=0 ; max=-1)
+4) Si vous utilisez "esx_joblisting" ajouté le metier a votre DB dans la Table job_listing (jobname=miner ; grade=0 ; max=-1)
 
 NOTE: La tenue de travail seras ajouter plus tard
 
