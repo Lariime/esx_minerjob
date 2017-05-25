@@ -12,7 +12,7 @@ Mettre le dossier "esx_minerjob" dans resources -> [esx]
 
 Ajouter "- esx_minerjob" a votre citmp-server.yml
 
-Executé esx_minerjob.sql dans gta5_gamemode_essential
+Executé "esx_minerjob.sql" dans gta5_gamemode_essential
 
 Si vous utilisez "esx_joblisting" ajouté le metier a votre DB dans la Table job_listing (jobname=miner ; grade=0 ; max=-1)
 
