@@ -28,5 +28,5 @@ Executed esx_minerjob.sql in gta5_gamemode_essential
 If you use "esx_joblisting" added the job to your DB in the job_listing table (jobname = miner; grade = 0; max = -1)
 
 
-
-indilo53: Salut en partageant ceci je souhaite participé au developpement de ta création :D Mon staff et moi meme allons travailler sur es_extended pour le developpement de notre serveur, et nous comptons tout partager, tu peut réupload sur ton Github ya pas de souci ;) Hésite pas a nous contacté ;) Je ne met pas de lien pour ne pas faire de pub.
+-----FOR INDILO53-------
+Salut en partageant ceci je souhaite participé au developpement de ta création :D Mon staff et moi meme allons travailler sur es_extended pour le developpement de notre serveur, et nous comptons tout partager, tu peut réupload sur ton Github ya pas de souci ;) Hésite pas a nous contacté ;) Je ne met pas de lien pour ne pas faire de pub.
