@@ -346,7 +346,7 @@ Citizen.CreateThread(function()
 
 	local blip = AddBlipForCoord(Config.Zones.Mine.Pos.x, Config.Zones.Mine.Pos.y, Config.Zones.Mine.Pos.z)
   
-  SetBlipSprite (blip, 256)
+  SetBlipSprite (blip, 318)
   SetBlipDisplay(blip, 4)
   SetBlipScale  (blip, 1.2)
   SetBlipColour (blip, 5)
@@ -362,7 +362,7 @@ Citizen.CreateThread(function()
 
 	local blip = AddBlipForCoord(Config.Zones.StoneWash.Pos.x, Config.Zones.StoneWash.Pos.y, Config.Zones.StoneWash.Pos.z)
   
-  SetBlipSprite (blip, 256)
+  SetBlipSprite (blip, 318)
   SetBlipDisplay(blip, 4)
   SetBlipScale  (blip, 1.2)
   SetBlipColour (blip, 5)
@@ -378,7 +378,7 @@ Citizen.CreateThread(function()
 
 	local blip = AddBlipForCoord(Config.Zones.Foundry.Pos.x, Config.Zones.Foundry.Pos.y, Config.Zones.Foundry.Pos.z)
   
-  SetBlipSprite (blip, 256)
+  SetBlipSprite (blip, 318)
   SetBlipDisplay(blip, 4)
   SetBlipScale  (blip, 1.2)
   SetBlipColour (blip, 5)
@@ -394,7 +394,7 @@ Citizen.CreateThread(function()
 
 	local blip = AddBlipForCoord(Config.Zones.CopperDelivery.Pos.x, Config.Zones.CopperDelivery.Pos.y, Config.Zones.CopperDelivery.Pos.z)
   
-  SetBlipSprite (blip, 256)
+  SetBlipSprite (blip, 318)
   SetBlipDisplay(blip, 4)
   SetBlipScale  (blip, 1.2)
   SetBlipColour (blip, 5)
@@ -410,7 +410,7 @@ Citizen.CreateThread(function()
 
 	local blip = AddBlipForCoord(Config.Zones.IronDelivery.Pos.x, Config.Zones.IronDelivery.Pos.y, Config.Zones.IronDelivery.Pos.z)
   
-  SetBlipSprite (blip, 256)
+  SetBlipSprite (blip, 318)
   SetBlipDisplay(blip, 4)
   SetBlipScale  (blip, 1.2)
   SetBlipColour (blip, 5)
@@ -426,7 +426,7 @@ Citizen.CreateThread(function()
 
 	local blip = AddBlipForCoord(Config.Zones.GoldDelivery.Pos.x, Config.Zones.GoldDelivery.Pos.y, Config.Zones.GoldDelivery.Pos.z)
   
-  SetBlipSprite (blip, 256)
+  SetBlipSprite (blip, 318)
   SetBlipDisplay(blip, 4)
   SetBlipScale  (blip, 1.2)
   SetBlipColour (blip, 5)
@@ -442,7 +442,7 @@ Citizen.CreateThread(function()
 
 	local blip = AddBlipForCoord(Config.Zones.DiamondDelivery.Pos.x, Config.Zones.DiamondDelivery.Pos.y, Config.Zones.DiamondDelivery.Pos.z)
   
-  SetBlipSprite (blip, 256)
+  SetBlipSprite (blip, 318)
   SetBlipDisplay(blip, 4)
   SetBlipScale  (blip, 1.2)
   SetBlipColour (blip, 5)
