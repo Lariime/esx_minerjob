@@ -22,7 +22,6 @@ Https://github.com/indilo53/fivem-es_extended
 
 4) Si vous utilisez "esx_joblisting" ajouté le metier a votre DB dans la Table job_listing (jobname=miner ; grade=0 ; max=-1)
 
-NOTE: La tenue de travail seras ajouter plus tard
 
 PS: Notre serveur recherche des developpeurs sur ESX, le travaille pour le serveur serras partagé a tous !
 
@@ -45,7 +44,6 @@ https://github.com/indilo53/fivem-es_extended
 
 4) If you use "esx_joblisting" added the job to your DB in the job_listing table (jobname = miner; grade = 0; max = -1)
 
-NOTE: Workwear will be added later
 
 
 
