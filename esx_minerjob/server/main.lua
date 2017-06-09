@@ -105,7 +105,7 @@ local function FounderingStone(source)
 			TriggerEvent('esx:getPlayerFromId', source, function(xPlayer)
 
 				local WashedStoneQuantity = xPlayer:getInventoryItem('washed_stone').count
-				local CooperQuantity      = xPlayer:getInventoryItem('cooper').count
+				local CooperQuantity      = xPlayer:getInventoryItem('copper').count
 				local IronQuantity        = xPlayer:getInventoryItem('iron').count
 				local GoldQuantity        = xPlayer:getInventoryItem('gold').count
 				local DiamondQuantity     = xPlayer:getInventoryItem('diamond').count
