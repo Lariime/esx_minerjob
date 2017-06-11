@@ -121,12 +121,15 @@ local function FounderingStone(source)
                 elseif DiamondQuantity >= 50 then
 					TriggerClientEvent('esx:showNotification', source, 'Vous n\'avez plus de place')					
 				else
-					
-					xPlayer:removeInventoryItem('washed_stone', 1)
-					xPlayer:addInventoryItem('copper', 8)
-					xPlayer:addInventoryItem('iron', 6)
-					xPlayer:addInventoryItem('gold', 3)
-					xPlayer:addInventoryItem('diamond', 1)
+                              local chance_mat = math.random(100)
+                
+                      xPlayer:removeInventoryItem('washed_stone', 1)
+                      xPlayer:addInventoryItem('copper', 8)
+                      xPlayer:addInventoryItem('iron', 6)
+                      xPlayer:addInventoryItem('gold', 3)
+                    if chance_mat <= 5 then
+                      xPlayer:addInventoryItem('diamond', 1)
+                    end
 					
 					FounderingStone(source)
 				end
@@ -164,7 +167,7 @@ local function CopperResell(source)
 				else
 					
 					xPlayer:removeInventoryItem('copper', 1)
-					xPlayer:addMoney(15)
+					xPlayer:addMoney(20)
 					
 					CopperResell(source)
 				end
@@ -190,7 +193,7 @@ local function IronResell(source)
 				else
 					
 					xPlayer:removeInventoryItem('iron', 1)
-					xPlayer:addMoney(25)
+					xPlayer:addMoney(35)
 					
 					IronResell(source)
 				end
@@ -216,7 +219,7 @@ local function GoldResell(source)
 				else
 					
 					xPlayer:removeInventoryItem('gold', 1)
-					xPlayer:addMoney(45)
+					xPlayer:addMoney(100)
 					
 					GoldResell(source)
 				end
@@ -242,7 +245,7 @@ local function DiamondResell(source)
 				else
 					
 					xPlayer:removeInventoryItem('diamond', 1)
-					xPlayer:addMoney(100)
+					xPlayer:addMoney(2000)
 					
 					DiamondResell(source)
 				end
